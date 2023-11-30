@@ -1,0 +1,88 @@
+.header {
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+.iguana1 {
+    width: 100%;
+}
+.box {
+    display: flex;
+    text-align: left;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+.texto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    margin-top: 50%px;
+    padding: 50%px;
+}
+
+.iguana2 {
+    width: 450px;
+    padding: 50px;
+}
+
+.caracteristicas {
+    display: flex;
+    background:#1E1A13;
+    flex-direction:column;
+}
+.box-caracteristicas {
+    display: flex;
+    justify-content: center;
+
+}
+.iconos {
+    text-align: center;
+}
+.box-iconos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.fa-solid .fa-eye .flex-item {
+    width: 200px;
+    height: 50px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 50%px;
+    padding-top: 50%px;
+    
+}
+
+.iguana2 {
+    top: 1500px;
+    left: 150px;
+    height: 200px;
+    padding: 50px;
+    width: 300px;    
+}
+.iguana3 {
+    top: 1500px;
+    left: 150px;
+    height: 200px;
+    padding: 50px;
+    width: 300px;   
+}
+.iguana4 {
+    top: 1500px;
+    left: 150px;
+    height: 200px;
+    padding: 50px;
+    width: 300px;   
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: #1E1A13;
+    
+}
