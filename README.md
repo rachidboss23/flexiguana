@@ -1,5 +1,5 @@
 En esta ocasion, valide mis conocimientos de posicionamiento en CSS. Para
-lograrlo, necesite ocupar lo aprendido de flex.
+lograrlo, necesite combinar lo aprendido con flex.
  
 
 Link de la pagina:
